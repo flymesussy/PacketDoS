@@ -68,5 +68,5 @@ if __name__ == '__main__':
          print('                SAMP EXPLOIT ')
          print('=========================================================================')
          print('\n\n')
-         print('[+] Sending Ghosts '.format(orgip))
+         print('[+] Sending Ghosts'.format(orgip))
          pass
