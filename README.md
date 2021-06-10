@@ -1,5 +1,7 @@
-# GH34 TEAM
+# PacketDoS by GH34 TEAM
 Packet DDoS for SAMP ( San Andreas Multiplayer ) 
+
+How to using this tools : python2 <ip> <port>
 
 The author is not responsible if this tool is used for actions that can destroy the server
 
